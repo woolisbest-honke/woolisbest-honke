@@ -36,7 +36,6 @@
 ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
-
 ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?logo=ruby&logoColor=white)
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?logo=swift&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white)
@@ -47,7 +46,6 @@
 ![Perl](https://img.shields.io/badge/-Perl-39457E?logo=perl&logoColor=white)
 ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?logo=mathworks&logoColor=white)
-
 ![Objective-C](https://img.shields.io/badge/-Objective--C-438EFF?logo=apple&logoColor=white)
 ![Groovy](https://img.shields.io/badge/-Groovy-4298B8?logo=apachegroovy&logoColor=white)
 ![Visual Basic](https://img.shields.io/badge/-Visual%20Basic-512BD4?logo=dotnet&logoColor=white)
@@ -58,7 +56,6 @@
 ![Nim](https://img.shields.io/badge/-Nim-FFE953?logo=nim&logoColor=black)
 ![Crystal](https://img.shields.io/badge/-Crystal-000000?logo=crystal&logoColor=white)
 ![Elixir](https://img.shields.io/badge/-Elixir-4B275F?logo=elixir&logoColor=white)
-
 ![Erlang](https://img.shields.io/badge/-Erlang-A90533?logo=erlang&logoColor=white)
 ![F#](https://img.shields.io/badge/-F%23-378BBA?logo=fsharp&logoColor=white)
 ![OCaml](https://img.shields.io/badge/-OCaml-EC6813?logo=ocaml&logoColor=white)
@@ -69,7 +66,6 @@
 ![Apex](https://img.shields.io/badge/-Apex-1798C1?logo=salesforce&logoColor=white)
 ![Solidity](https://img.shields.io/badge/-Solidity-363636?logo=solidity&logoColor=white)
 ![V](https://img.shields.io/badge/-V-5D87BF?logo=vlang&logoColor=white)
-
 ![Zig](https://img.shields.io/badge/-Zig-F7A41D?logo=zig&logoColor=black)
 ![Red](https://img.shields.io/badge/-Red-B32629?logo=red&logoColor=white)
 ![Ring](https://img.shields.io/badge/-Ring-2D54CB?logo=ring&logoColor=white)
