@@ -1,5 +1,6 @@
 # 👋 Hi, I'm woolisbest-honke
 
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=woolisbest-honke&theme=tokyo-night)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=woolisbest-honke&show_icons=true&theme=dracula&count_private=true" alt="GitHub Stats" />
 </p>
