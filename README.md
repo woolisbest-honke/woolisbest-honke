@@ -6,6 +6,11 @@
 ![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=woolisbest-honke&theme=tokyonight)
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=woolisbest-honke&theme=tokyonight)
 ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=woolisbest-honke&theme=tokyonight&utcOffset=9)
+![GitHub Streak](https://streak-stats.demolab.com?user=woolisbest-honke&theme=tokyonight)
+[![trophy](https://github-profile-trophy.vercel.app/?username=woolisbest-honke&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=woolisbest-honke&theme=tokyo-night)
+![Snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=woolisbest-honke&theme=tokyonight)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=woolisbest-honke&show_icons=true&theme=dracula&count_private=true" alt="GitHub Stats" />
