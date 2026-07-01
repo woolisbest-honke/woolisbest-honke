@@ -9,10 +9,10 @@
 ## 🌐 Live Services
 実際に運用している主要プロジェクトです。
 
-- **[Wool-Tube](https://woolisbest.f5.si/)**  
+- **[Wista](https://wista.f5.si/)**  
   🎥 YouTube Alternative Platform  
 
-- **[Woolisbest Web Service](https://woolisbest.lema.cl/)**  
+- **[Woolisbest Web Service](https://woolisbest.onrender.com/)**  
   🧩 Project Portal / Service Hub  
 
 ---
